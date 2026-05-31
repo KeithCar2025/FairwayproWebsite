@@ -1,0 +1,9 @@
+{
+  "name": "FairwayPro Shot Tracer",
+  "short_name": "FairwayPro",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050805",
+  "theme_color": "#b6ff00",
+  "description": "Create clean golf shot tracer videos from your phone."
+}
